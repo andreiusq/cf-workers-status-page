@@ -27,7 +27,7 @@ monitors:
   - id: www-serenity-mp
     name: Serenity Website
     description: 'The main website.'
-    url: 'https://www.serenity.mp'
+    url: 'https://www.serenity.mp/music'
     method: GET
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
